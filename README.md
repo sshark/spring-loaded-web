@@ -1,1 +1,1 @@
-A Spring loaded web sample application with authentication and authorization included. This project is meant for testing URL accessibility different users and roles.  
+A Spring loaded web sample application with authentication and authorization included. This project is meant for testing URL accessibility with different users and roles.  
